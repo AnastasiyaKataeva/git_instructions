@@ -46,3 +46,10 @@
 
     git log --all
     git log -oneline --all
+
+## Вернуться ("откатиться") к  ранним изменениям можно c помощью команды checkout
+
+    git checkout
+
+
+
