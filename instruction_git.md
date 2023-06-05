@@ -76,4 +76,4 @@
 
 Для того, чтобы перейти с одной ветки на другую нужно набрать команду
 
-        git checkout <branch_name>
+        git checkout <branch_name> 
